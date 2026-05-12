@@ -7,6 +7,7 @@ Un rombo define la condicion de un eventi o actividad y se utiliza para describi
 
 ## *Fase 2:* Modelado del Proceso de Compra
 
+<img width="802" height="900" alt="Captura" src="img/Confirmacion Pedido.png" />
 
 
 ## Referencias
