@@ -12,4 +12,4 @@ Un rombo define la condicion de un eventi o actividad y se utiliza para describi
 ## Referencias
 - [1] Fakhroutdinov, Kirill. “UML Activity Diagram Controls Are Activity Nodes Coordinating the Flows between Other Nodes: Initial Node, Flow Final, Activity Final, Decision, Merge, Fork, Join.” Www.uml-Diagrams.org, Nov. 1997, www.uml-diagrams.org/activity-diagrams-controls.html
 - [2] Rodina, Dusan. “Fork in Activity Diagram - Software Ideas Modeler.” Softwareideas.net, 2023, www.softwareideas.net/activity-diagram-fork
-- [3] wondershare, grupo. “Símbolos Del Diagrama de Actividades UML - Edraw.” EdrawMax, 2022, edraw.wondershare.es/uml-activity-symbols.html
+- [3] wondershare, grupo. “Símbolos Del Diagrama de Actividades UML - Edraw.” EdrawMax, 2022, https://edraw.wondershare.es/uml-activity-symbols.html
